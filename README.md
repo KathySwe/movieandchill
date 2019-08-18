@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![movielist](https://github.com/KathySwe/movieandchill/blob/master/public/movielist.png)
+![moviedetail](https://github.com/KathySwe/movieandchill/blob/master/public/moviedetail.png)
+![castinfo](https://github.com/KathySwe/movieandchill/blob/master/public/castinfodetail.png)
 ## Available Scripts
 
 In the project directory, you can run:
